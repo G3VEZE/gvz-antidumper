@@ -51,7 +51,9 @@ Bu eklenti nedir : Sunucunuzun dump yemesini en azından bir tık önleyen bir e
 [GÖRSEL]
 
 https://hizliresim.com/MGSyA2
+
 https://hizliresim.com/AgBVbF
+
 https://hizliresim.com/Ge9fnC
 
 NOT : Kesinlikle Antidumperım %100 koruma garantisini vermiyoruz.Fakat yineden elimizden geldiğince korunaklı yapmaya çalıştık.Merak etmeyin databasenizi veya rconunuzu çekmiyoruz.
